@@ -1,0 +1,16 @@
+{
+  "name": "Dog Facebook",
+  "version": "0.1",
+  "description": "Facebook but only Old Friends Senior Dog Sanctuary",
+  "background": {
+    "scripts": [
+        "background.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "manifest_version": 2
+}
